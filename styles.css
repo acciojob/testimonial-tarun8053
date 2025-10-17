@@ -1,22 +1,16 @@
-/*  your css code here. If applicable */
-.container{
-	padding:10px;
-	background-color:#f5f5f5;
-	
+.container {
+    padding: 10px;
+    background-color: #f5f5f5;
 }
-.first{
-	background-color:white;
-	padding:3px;
-	border:2px solid black;
-	margin:5px;
+
+.p1 {
+    background-color: white;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 10px 0;
 }
-.sec{
-	background-color:white;
-	padding:3px;
-	border:2px solid black;
-	margin:5px;
-}
-.author{
-	text-align:right;
-	font-style:italic;
+
+.autor {
+    text-align: right;
+    font-style: italic;
 }
