@@ -4,13 +4,19 @@
 	background-color:#f5f5f5;
 	
 }
-.p1{
+.first{
 	background-color:white;
 	padding:3px;
 	border:2px solid black;
 	margin:5px;
 }
-.autor{
+.sec{
+	background-color:white;
+	padding:3px;
+	border:2px solid black;
+	margin:5px;
+}
+.author{
 	text-align:right;
 	font-style:italic;
 }
